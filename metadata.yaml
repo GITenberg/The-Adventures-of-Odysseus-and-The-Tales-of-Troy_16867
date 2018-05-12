@@ -1,0 +1,49 @@
+_repo: The-Adventures-of-Odysseus-and-The-Tales-of-Troy_16867
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Pogány, Willy
+    aliases:
+    - Pogany, Willy
+    - Pogány, Vilmos
+    birthdate: 1882
+    deathdate: 1955
+    gutenberg_agent_id: '6985'
+    url: http://www.gutenberg.org/2009/agents/6985
+    wikipedia: http://en.wikipedia.org/wiki/Willy_Pogany
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Colum, Padraic
+    alias: Collumb, Patrick
+    birthdate: 1881
+    deathdate: 1972
+    gutenberg_agent_id: '893'
+    url: http://www.gutenberg.org/2009/agents/893
+    wikipedia: http://en.wikipedia.org/wiki/Padraic_Colum
+description: Cover; The Adventures of Odysseus and The Tales of Troy; Copyright; CONTENTS;
+  PART I; CHAPTER I; CHAPTER II; CHAPTER III; CHAPTER IV; CHAPTER V; CHAPTER VI; CHAPTER
+  VII; CHAPTER VIII; CHAPTER IX; CHAPTER X; CHAPTER XI; CHAPTER XII; CHAPTER XIII;
+  CHAPTER XIV; CHAPTER XV; CHAPTER XVI; CHAPTER XVII; CHAPTER XVIII; CHAPTER XIX;
+  CHAPTER XX; CHAPTER XXI; CHAPTER XXII; CHAPTER XXIII; PART II; CHAPTER I; CHAPTER
+  II; CHAPTER III; CHAPTER IV; CHAPTER V; CHAPTER VI; CHAPTER VII; CHAPTER VIII; THE
+  STORY OF EUMÆUS THE SWINEHERD; CHAPTER IX; CHAPTER X; CHAPTER XI; CHAPTER XII; CHAPTER
+  XIII; CHAPTER XIV.
+gutenberg_issued: '2005-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16867'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Mythology, Greek -- Juvenile literature'
+- !lcc 'PZ'
+- !lcsh 'Trojan War -- Juvenile literature'
+- !lcsh 'Odysseus, King of Ithaca (Mythological character) -- Juvenile literature'
+title: The Adventures of Odysseus and The Tales of Troy
+url: http://www.gutenberg.org/ebooks/16867
